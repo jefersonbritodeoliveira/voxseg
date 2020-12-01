@@ -1,0 +1,2 @@
+nome = "berlim"
+print(nome)
